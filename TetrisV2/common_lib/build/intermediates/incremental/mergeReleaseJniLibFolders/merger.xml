@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\common_lib\libs"><file name="com-google-code-gson_gson.jar" path="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\common_lib\libs\com-google-code-gson_gson.jar"/></source></dataSet><dataSet config="release"><source path="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\common_lib\src\release\jniLibs"/></dataSet></merger>

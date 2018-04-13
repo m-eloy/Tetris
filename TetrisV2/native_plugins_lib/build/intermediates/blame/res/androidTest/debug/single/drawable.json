@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Mathilde\\Desktop\\Tetris\\TetrisV2\\native_plugins_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\np_webview_reload_button_normal.png",
+        "source": "C:\\Users\\Mathilde\\Desktop\\Tetris\\TetrisV2\\native_plugins_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\np_webview_reload_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Mathilde\\Desktop\\Tetris\\TetrisV2\\native_plugins_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\np_webview_back_button_normal.png",
+        "source": "C:\\Users\\Mathilde\\Desktop\\Tetris\\TetrisV2\\native_plugins_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\np_webview_back_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Mathilde\\Desktop\\Tetris\\TetrisV2\\native_plugins_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\np_webview_close_button_normal.png",
+        "source": "C:\\Users\\Mathilde\\Desktop\\Tetris\\TetrisV2\\native_plugins_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\np_webview_close_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Mathilde\\Desktop\\Tetris\\TetrisV2\\native_plugins_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\app_icon_custom_white.png",
+        "source": "C:\\Users\\Mathilde\\Desktop\\Tetris\\TetrisV2\\native_plugins_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\app_icon_custom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Mathilde\\Desktop\\Tetris\\TetrisV2\\native_plugins_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\app_icon_custom_coloured.png",
+        "source": "C:\\Users\\Mathilde\\Desktop\\Tetris\\TetrisV2\\native_plugins_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\app_icon_custom_coloured.png"
+    },
+    {
+        "merged": "C:\\Users\\Mathilde\\Desktop\\Tetris\\TetrisV2\\native_plugins_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\np_webview_forward_button_normal.png",
+        "source": "C:\\Users\\Mathilde\\Desktop\\Tetris\\TetrisV2\\native_plugins_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\np_webview_forward_button_normal.png"
+    }
+]

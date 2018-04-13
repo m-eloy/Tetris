@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="fr.unilim.TetrisV2.test">
+
+    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="27" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="fr.unilim.TetrisV2"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for fr.unilim.TetrisV2"/>
+</manifest>

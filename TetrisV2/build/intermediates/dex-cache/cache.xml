@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\native_plugins_lib\build\intermediates\bundles\default\libs\nativeplugins.core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="609ccc22a2657a112ce33df82936c07fb3212e83">
+        <dex dex="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\build\intermediates\pre-dexed\debug\nativeplugins.core_d58e7345ef06508e72255b4f0d63bf337b3ffe4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\native_plugins_lib\build\intermediates\bundles\default\libs\feature.sharing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6cf5426d31092824904669ceef0807d77470ea63">
+        <dex dex="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\build\intermediates\pre-dexed\debug\feature.sharing_7549b0b430b8f84228c6662122ffb6744cfa1cf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\native_plugins_lib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="363d9fcc0ff7654f44610af4c48aa2c5145c556b">
+        <dex dex="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\build\intermediates\pre-dexed\debug\classes_eac03ddd37d1c37106af48ac03f0a2f769afad35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\common_lib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="34bbc53c200b162f7d4fc8d74dafcbbdefb0a92d">
+        <dex dex="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\build\intermediates\pre-dexed\debug\classes_806825d7a3b7948c89c838bfc2b21761c9d1a1c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\native_plugins_lib\build\intermediates\bundles\default\libs\feature.externallibrary.shortcutbadger.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f4ea15cde4f79e664daf01411dff1443111b9d50">
+        <dex dex="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\build\intermediates\pre-dexed\debug\feature.externallibrary.shortcutbadger_9f025e5596be06b5b40910d16bf23cdd64e35182.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\common_lib\build\intermediates\bundles\default\libs\com-google-code-gson_gson.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d1290b08ec8e8f36bad7cc0dbf48841f65367d99">
+        <dex dex="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\build\intermediates\pre-dexed\debug\com-google-code-gson_gson_d419fae793f3cb3153e56f306a0261ad2e941ede.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\native_plugins_lib\build\intermediates\bundles\default\libs\feature.addressbook.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="640d4652a158c723ba1cb21593422a9fbce6ba68">
+        <dex dex="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\build\intermediates\pre-dexed\debug\feature.addressbook_b9babb96b5044a7acfbcf2581e09f847425ac67a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\native_plugins_lib\build\intermediates\bundles\default\libs\feature.reachability.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5a2663d5906840e0d908ccc5e7f1bf709d1af82e">
+        <dex dex="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\build\intermediates\pre-dexed\debug\feature.reachability_82fd706e2ca330fe4b03020bac54806041bfc6ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\voxelbusters_utility_lib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="08039363ba811a72f27033a9288bcb35605a7372">
+        <dex dex="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\build\intermediates\pre-dexed\debug\classes_8e9800c64268aef04c685e4b45d256f8ab2402f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\build\intermediates\pre-dexed\debug\unity-classes_2a53dd8acb4ce8183bfdc2299e9b0d7f216bacc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mathilde\.android\build-cache\ae51367c0280d8c1c3601c2917ef880d471fa1dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c152a3dffb906c0d318bd6d9781d52728968110c">
+        <dex dex="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\build\intermediates\pre-dexed\debug\classes_b91c7b427c0cc693ac029a51e55191fde36c866a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\voxelbusters_utility_lib\build\intermediates\bundles\default\libs\androidutility.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="eb095ae1bf5632bc82cdbe6a6495ab8b269536a7">
+        <dex dex="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\build\intermediates\pre-dexed\debug\androidutility_ff6d866f9f232df20753bdb0c076a499ac51daf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mathilde\.android\build-cache\ae51367c0280d8c1c3601c2917ef880d471fa1dd\output\jars\libs\MIO_SDK_UNITY_1.3.9_10156.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="36d62f6d697622df4e997531cbb4491e844a011c">
+        <dex dex="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\build\intermediates\pre-dexed\debug\MIO_SDK_UNITY_1.3.9_10156_bb5e3f4da5342c5ff577c430493bfd4aa34f44f5.jar" />
+    </item>
+
+</items>
