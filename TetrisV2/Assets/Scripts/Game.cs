@@ -40,7 +40,7 @@ public class Game : MonoBehaviour {
     void Start()
     {
 
-        string conn = "URI=file:" + Application.dataPath + "/database.s3db"; //Path to database.
+        string conn = "URI=file:" + Application.dataPath + "/StreamingAssets/database.s3db"; //Path to database.
         IDbConnection dbconn;
         dbconn = (IDbConnection)new SqliteConnection(conn);
         dbconn.Open(); //Open connection to the database.

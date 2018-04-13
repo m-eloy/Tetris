@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Share.unity
+- path: Assets/Scenes/Identification.unity
   isLoaded: 1
   isActive: 1

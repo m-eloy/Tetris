@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\voxelbusters_utility_lib\libs"><file name="androidutility.jar" path="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\voxelbusters_utility_lib\libs\androidutility.jar"/></source></dataSet><dataSet config="release"><source path="C:\Users\Mathilde\Desktop\Tetris\TetrisV2\voxelbusters_utility_lib\src\release\jniLibs"/></dataSet></merger>

@@ -8,7 +8,6 @@ using System.Data;
 using System;
 
 //share
-using VoxelBusters.NativePlugins;
 
 public class ShareController : MonoBehaviour {
 
@@ -19,7 +18,7 @@ public class ShareController : MonoBehaviour {
     private int score;
 
     void Start () {
-        conn = "URI=file:" + Application.dataPath + "/database.s3db"; //Path to database.
+        conn = "URI=file:" + Application.dataPath + "/StreamingAssets/database.s3db"; //Path to database.
         SelectScorePlayer();
     }  
 
@@ -54,42 +53,6 @@ public class ShareController : MonoBehaviour {
     {
         Application.LoadLevel("GameOver");
     }
-
-    public void ShareViaEmail()
-    {
-            if (NPBinding.Sharing.IsMailServiceAvailable())
-            {
-                // Create new instance and populate fields
-                MailShareComposer _composer = new MailShareComposer();
-                _composer.Subject = "De " + pseudo + " : nouveau score au Tetris !";
-                _composer.Body = "Regarde mon super score au Tetris! \n Score : " + score + "";
-
-
-            // Show composer
-            NPBinding.Sharing.ShowView(_composer, OnFinishedSharing);
-            }
-            else
-            {
-                // Device doesn't support sending emails
-            }
-    }
-
-    public void ShareViaShareSheet()
-    {
-        // Create new instance and populate fields
-        SocialShareSheet _shareSheet = new SocialShareSheet();
-        _shareSheet.Text = "Regarde mon super score au Tetris! \n Score : " + score + "";
-        // On iPad, popover view is used to show share sheet. So we need to set its position
-        NPBinding.UI.SetPopoverPointAtLastTouchPosition();
-        // Show composer
-        NPBinding.Sharing.ShowView(_shareSheet, OnFinishedSharing);
-    }
-
-
-    private void OnFinishedSharing(eShareResult _result)
-    {
-        Debug.Log("Finished sharing");
-        Debug.Log("Share Result = " + _result);
-    }
+    
     
 }

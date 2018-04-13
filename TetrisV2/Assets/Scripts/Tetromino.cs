@@ -53,7 +53,7 @@ public class Tetromino : MonoBehaviour {
 
     void CheckUserInput()
     {
-#if UNITY_ANDROID
+//#if UNITY_ANDROID
         if (Input.touchCount > 0)
         {
             Touch t = Input.GetTouch(0);
@@ -105,7 +105,7 @@ public class Tetromino : MonoBehaviour {
         {
             MoveDown();
         }
-#else
+//#else
 
         if (Input.GetKeyUp(KeyCode.RightArrow) || Input.GetKeyUp(KeyCode.LeftArrow) || Input.GetKeyUp(KeyCode.DownArrow))
         {
@@ -133,7 +133,7 @@ public class Tetromino : MonoBehaviour {
             MoveDown();
         }
 
-#endif
+//#endif
     }
 
     public void MoveRight()

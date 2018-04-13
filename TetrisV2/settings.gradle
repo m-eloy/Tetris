@@ -1,3 +1,0 @@
-include 'common_lib'
-include 'native_plugins_lib'
-include 'voxelbusters_utility_lib'

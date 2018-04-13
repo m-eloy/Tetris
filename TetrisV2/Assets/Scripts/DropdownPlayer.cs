@@ -28,7 +28,7 @@ public class DropdownPlayer : MonoBehaviour {
 
     void Start()
     {
-        conn = "URI=file:" + Application.dataPath + "/database.s3db"; //Path to database.
+        conn = "URI=file:" + Application.dataPath + "/StreamingAssets/database.s3db"; //Path to database.
         ShowPlayerBD();
         PopulateList();
     }
