@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TetrisV2.iml" filepath="$PROJECT_DIR$/TetrisV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common_lib/common_lib.iml" filepath="$PROJECT_DIR$/common_lib/common_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/native_plugins_lib/native_plugins_lib.iml" filepath="$PROJECT_DIR$/native_plugins_lib/native_plugins_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/voxelbusters_utility_lib/voxelbusters_utility_lib.iml" filepath="$PROJECT_DIR$/voxelbusters_utility_lib/voxelbusters_utility_lib.iml" />
+    </modules>
+  </component>
+</project>
